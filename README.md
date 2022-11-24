@@ -20,30 +20,30 @@ Project covers vulnerabilty scanning and vulnerability remediation. I used Nessu
 
 <p align="center">
 Created Windows 10 VM and Instaled Nessus Essentials:  <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0lKEbmT.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 First Scan:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/AA5dj4e.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Credintialed Scan: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YC0sGy4.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 Instaled Debrcated Firefox on VM: <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uvnePm9.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Scan:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Scan With Debrcated Firefox on VM:  <br/>
+<img src="https://i.imgur.com/gobiRug.png" height="80%" width="80%" alt=""/>
+<br />
+<img src="https://i.imgur.com/m4sXgIK.png" height="80%" width="80%" alt=""/>  
 <br />
 <br />
-Final Scan after Uninstaling Firefox, Updating Windwos and Edge:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b>Vulnerability Remediation</b> <br/>
+<br/>
+Scan after Uninstaling Firefox, Updating Windows and Edge:  <br/>
+<img src="https://i.imgur.com/L1DzUBO.png" height="80%" width="80%" alt=""/>
 </p>
 
