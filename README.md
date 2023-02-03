@@ -1,4 +1,4 @@
-<h1>Vulnerability Managment With Nessus</h1>
+<h1>Vulnerability Management With Nessus</h1>
 
 
 
