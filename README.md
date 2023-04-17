@@ -3,7 +3,7 @@
 
 
 <h2>Description</h2>
-Project covers vulnerabilty scanning and vulnerability remediation. I used Nessus Essentials to scan local virtual machines hosted on VMware in order to run credentialed scans to discover vulerabiliters, remediate some of the vulnerabilites, then perform a rescan to verify remdiation.
+Project covers vulnerabilty scanning and vulnerability remediation. I used Nessus Essentials to scan local virtual machines hosted on VMware in order to run credentialed scans to discover vulnerabilites, remediate some of the vulnerabilites, then perform a rescan to verify remdiation.
 <br />
 
 
